@@ -11,9 +11,9 @@ Message: I will update it as I work on it.
 #### Implemented
 
 - Animated topbar logo
+![Screenshot](https://github.com/kavanmevada/Material-Case-Studies-Owl/raw/screenshots/logo_animation.gif)
+
 - Animated Bottom Navigation View
-
-
 ![Screenshot](https://raw.githubusercontent.com/kavanmevada/Material-Case-Studies-Owl/screenshots/bottomnavigationview.gif)
 
 
