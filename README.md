@@ -14,6 +14,9 @@ Message: I will update it as I work on it.
 - Animated Bottom Navigation View
 
 
+(https://raw.githubusercontent.com/kavanmevada/Material-Case-Studies-Owl/screenshots/bottomnavigationview.gif)
+
+
 
 
 #### License
