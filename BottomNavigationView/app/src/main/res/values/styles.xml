@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+
+        <item name="android:windowBackground">@color/colorPrimary</item>
+    </style>
+
+
+
+    <style name="AppCompat.BottomNavigation" parent="@style/Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemIconTint">@color/bottom_nav_item</item>
+        <item name="itemTextAppearanceActive">@style/TextAppearance.AppCompat.BottomNavigation.Item.Active</item>
+    </style>
+    <style name="TextAppearance.AppCompat.BottomNavigation.Item.Active" parent="AppTheme">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">@font/rubik_regular</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>
